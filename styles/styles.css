@@ -230,7 +230,7 @@ section {
   box-shadow: 1px 4px 15px rgba(0, 0, 0, 0.32);
 }
 .about-container .right-about .about-item .abt-text {
-  padding: 1.5rem;
+  padding: 1rem;
   display: flex;
   flex-direction: column;
 }
@@ -406,7 +406,7 @@ section {
 
 .portfolios {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(2, 1fr);
   grid-gap: 2rem;
   margin-top: 3rem;
 }
